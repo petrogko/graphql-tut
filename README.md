@@ -1,1 +1,1 @@
-# twitter-clone
+# Simple Graphql with Node (Express) Communication
